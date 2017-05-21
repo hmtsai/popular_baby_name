@@ -2,6 +2,8 @@
 
 print name's rank from 2012 to 2016 top20 
 
+practice regular expression,  dictionary hash, list operations etc. 
+
 ```
 $ python pbn.py
 checking male name...
